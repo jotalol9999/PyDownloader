@@ -1,0 +1,12 @@
+1) El path de la playlist no cambia aunque se use la funcion 
+teoria: esta definido como "./" al inicio
+
+2) una vez que se le da a iniciar no se puede parar
+
+3) hace falta una barra de progreso
+
+4)un log dentro de la app o fuera ( cmd o algo asi)
+
+5) implementar una cola visible para poder ver o pendientes o cancelar
+
+6
